@@ -8,11 +8,15 @@
 
 ## 制限時間
 
+-----
+
 7日間
 
 これ以上は [YAuth](http://lestrrat.ldblog.jp/archives/23208854.html) の認証からレスポンスNGとなる。
 
 ## 走行距離
+
+-----
 
 約 1200km
 
@@ -28,6 +32,8 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.klWOLwFD7Mxs&usp=sharing
 福岡空港 or とあるブラック企業がある会社(渋谷)
 
 ## Rules
+
+-----
 
 今回は特別スポンサードとしてとあるブラック企業のサイクリング部の人から、金一封(5万円)のスポンサードを受けている。
 スポンサードの条件は
@@ -45,6 +51,14 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.klWOLwFD7Mxs&usp=sharing
 * [ニコ生](http://live.nicovideo.jp/)
 
 のいずれか一つで配信予定
+
+### 今どこいるの && 生存確認
+
+[Runnastic](https://www.runtastic.com/)の[ライブトラッキング](https://www.runtastic.com/ja/users/ryusuke-kimura-1/sport-sessions/1048657779) で現在位置は確認できます。
+
+### Twitter
+
+@todo ハッシュタグつける
 
 ### 予算
 
