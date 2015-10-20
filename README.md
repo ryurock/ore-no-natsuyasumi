@@ -19,4 +19,3 @@
 https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.klWOLwFD7Mxs&usp=sharing
 
 ## ルート
-
