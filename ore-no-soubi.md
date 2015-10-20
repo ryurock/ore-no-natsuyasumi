@@ -59,3 +59,10 @@ mont-bellでアウトレット価格に負けて購入。便利
 10年以上前のもの。セレブな登山ショップのお姉さまからもらった一品。
 10年経つのに全然壊れないのはさすが
 
+### リュック
+
+Karrimor リュックサック[sector 25] 
+
+![Karrimor リュックサック[sector 25] ](http://ecx.images-amazon.com/images/I/61cSrvXx8OL._UY395_.jpg)
+
+18歳の時に購入した15年もの。もはやボロボロ。
