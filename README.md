@@ -31,6 +31,20 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.klWOLwFD7Mxs&usp=sharing
 
 福岡空港 or とあるブラック企業がある会社(渋谷)
 
+## ルート
+
+### 【Day 1】渋谷 - 静岡(駿河) 150km
+
+### 【Day 2】静岡(駿河) - 愛知(小牧市) 201km
+
+### 【Day 3】愛知(小牧市) - 滋賀(琵琶湖) = 兵庫(神戸)中央区 195km
+
+### 【Day 4】兵庫(神戸)中央区 = 岡山 - 広島(尾道) 214km
+
+### 【Day 5】広島(尾道) - 愛媛(八幡浜)からフェリー - 大分(別府) 264km (内フェリー60kmを含む)
+
+### 【Day 6】大分(別府) - 福岡 (福岡国際空港) 124km
+
 
 ## Thanks Sponsored
 
@@ -76,7 +90,7 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.klWOLwFD7Mxs&usp=sharing
 
 ![モバイル Wifi](http://heyhojournal.com/wp-content/uploads/2014/08/nad11.gif)
 
-  
+
 
 ## Rules
 
