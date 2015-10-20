@@ -13,6 +13,8 @@
 
 これ以上は [YAuth](http://lestrrat.ldblog.jp/archives/23208854.html) の認証からレスポンスNGとなる。
 
+ちなみに現在のレスポンスコードは202
+
 ## 走行距離
 
 
