@@ -70,9 +70,13 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.klWOLwFD7Mxs&usp=sharing
 5回分の充電ができるモバイルバッテリー。電池がないと道に迷って走行できない・・・・とある人に相談したら買うよ。との返事
 
 
+### モバイル Wifi
 
+定額 WiMaxを契約している人がいるのでお願いして拝借。
 
+![モバイル Wifi](http://heyhojournal.com/wp-content/uploads/2014/08/nad11.gif)
 
+  
 
 ## Rules
 
