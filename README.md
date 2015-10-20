@@ -8,7 +8,6 @@
 
 ## 制限時間
 
------
 
 7日間
 
@@ -16,7 +15,6 @@
 
 ## 走行距離
 
------
 
 約 1200km
 
@@ -33,7 +31,6 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.klWOLwFD7Mxs&usp=sharing
 
 ## Rules
 
------
 
 今回は特別スポンサードとしてとあるブラック企業のサイクリング部の人から、金一封(5万円)のスポンサードを受けている。
 スポンサードの条件は
@@ -86,7 +83,9 @@ xxxxx円
 京都のhoge店にあるしば漬け
 ```
 
+## 俺のスペック
 
+[oreno-spec.md](https://github.com/ryurock/ore-no-natsuyasumi/blob/master/oreno-spec.md) を参照
 
 
 
