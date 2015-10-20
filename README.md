@@ -158,6 +158,9 @@ R１ or R２４６御殿場を選択できるが、今回はキツくなさそ�
 
 以下おみやげPullRequestのサンプル
 
+[omiyage-example.md](https://github.com/ryurock/ore-no-natsuyasumi/blob/master/omiyage-example.md)
+
+
 omiyage-{氏名}.md
 
 ```
