@@ -99,11 +99,11 @@ senenageru-{氏名}.md
 ```
 
 
-
-
 ## 俺のスペック
 
-[oreno-spec.md](https://github.com/ryurock/ore-no-natsuyasumi/blob/master/oreno-spec.md) を参照
+[ore-no-spec.md](https://github.com/ryurock/ore-no-natsuyasumi/blob/master/oreno-spec.md) を参照
 
+## 俺の装備
 
+[ore-no-soubi.md](https://github.com/ryurock/ore-no-natsuyasumi/blob/master/ore-no-soubi.md) を参照
 
