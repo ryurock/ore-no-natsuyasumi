@@ -31,16 +31,52 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.klWOLwFD7Mxs&usp=sharing
 
 福岡空港 or とあるブラック企業がある会社(渋谷)
 
-## Rules
 
+## Thanks Sponsored
 
-今回は特別スポンサードとしてとあるブラック企業のサイクリング部の人から、金一封(5万円)のスポンサードを受けている。
+今回は特別スポンサードとしてとあるブラック企業のサイクリング部の人々からスポンサードを受けている。
 スポンサードの条件は
 
 * 「動画を配信すること(生放送)」
 * 「hogeを食す動画で配信する」 or 「hogeを買ってくる」
 
 というのがスポンサードの条件。
+
+### 金一封(5万円)
+
+![金一封](http://www.kk-jig.com/_images/_p2/1405_1_1244786022_350.jpg)
+
+これがないとそもそもこの企画はできなかった。。。。。
+
+@todo 名前記載していいならここにGithubユーザー名
+
+### 自転車につけるスマホホルダー
+
+[iH-520-STD / iH-520-OS (Minoura)](http://www.amazon.co.jp/MINOURA-%E3%83%9F%E3%83%8E%E3%82%A6%E3%83%A9-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC-iH-520-STD-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89/dp/B00YHSX97C/ref=sr_1_3?ie=UTF8&qid=1445225292&sr=8-3&keywords=%E3%83%9F%E3%83%8E%E3%82%A6%E3%83%A9%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC)
+
+
+![スマホホルダー](http://www.minoura.jp/products/accessory/utilityholder/ih-520/ih-520-mdm.jpg)
+
+これがないと生放送ができない・・・・・とある人に相談したら買うよ。との返事
+
+### モバイルバッテリー
+
+
+![Anker PowerCore+ 10050](http://jp-anker-asset-1.ianker.com/uploads/product/main_image/709/thumb_29924da6-fe0e-452b-be24-f6373171ba01.jpg)
+
+[Anker PowerCore+ 10050](http://www.amazon.co.jp/Anker-%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E8%A3%BD%E3%82%BB%E3%83%AB%E6%90%AD%E8%BC%89-Android%E5%90%84%E7%A8%AE%E4%BB%96%E5%AF%BE%E5%BF%9C-%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%83%E3%83%88%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E4%BB%95%E4%B8%8A%E3%81%92-VoltageBoost%E6%90%AD%E8%BC%89%E3%80%91/dp/B012SKDQP0/ref=sr_1_9?s=electronics&ie=UTF8&qid=1445225647&sr=1-9)
+
+
+5回分の充電ができるモバイルバッテリー。電池がないと道に迷って走行できない・・・・とある人に相談したら買うよ。との返事
+
+
+
+
+
+
+## Rules
+
+俺の夏休みのルール
 
 
 ### 生放送配信
