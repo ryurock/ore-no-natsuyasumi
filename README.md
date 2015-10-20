@@ -85,6 +85,22 @@ xxxxx円
 京都のhoge店にあるしば漬け
 ```
 
+### 千円寄付PullRequest
+
+千円恵んでくれる。奇特なかたもPullReqください。
+ブラック企業に戻ってきた時に「ハァハァ」言いながら恵んでもらいます。
+
+以下千円寄付PullRequestのサンプル
+
+senenageru-{氏名}.md
+
+```
+なんか一言
+```
+
+
+
+
 ## 俺のスペック
 
 [oreno-spec.md](https://github.com/ryurock/ore-no-natsuyasumi/blob/master/oreno-spec.md) を参照
