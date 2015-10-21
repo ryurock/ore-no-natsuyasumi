@@ -24,12 +24,12 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.klWOLwFD7Mxs&usp=sharing
 
 ### スタート地点
 
-とあるブラック企業がある会社前(渋谷) or 福岡空港
+福岡空港
 
 
 ### ゴール地点
 
-福岡空港 or とあるブラック企業がある会社(渋谷)
+とある渋谷にある会社(渋谷)
 
 ## ルート
 
