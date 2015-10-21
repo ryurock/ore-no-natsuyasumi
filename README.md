@@ -23,6 +23,10 @@
 
 https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 
+## 全体図
+
+![全体図](https://cloud.githubusercontent.com/assets/1619084/10647267/49b18792-7872-11e5-8e5e-22f0df411a01.png)
+
 
 ### スタート地点
 
