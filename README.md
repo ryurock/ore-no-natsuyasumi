@@ -15,11 +15,14 @@
 
 ちなみに現在のレスポンスコードは202
 
+
+
 ## 走行距離
 
 約 1200km
 
-https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.klWOLwFD7Mxs&usp=sharing
+https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
+
 
 ### スタート地点
 
@@ -32,11 +35,10 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.klWOLwFD7Mxs&usp=sharing
 
 ## ルート
 
-#### 【Day 1】渋谷 - 静岡(駿河) 150km
+#### 【Day 1】福岡 - 大分(別府) 137km
 
-R１ or R２４６御殿場を選択できるが、今回はキツくなさそうな御殿場ルートを選択。
+![地図](https://cloud.githubusercontent.com/assets/1619084/10647140/b80a5332-7871-11e5-82bd-de3bdb191983.png)
 
-核心は松田 - 御殿場の上り
 
 ##### 宿泊先
 
