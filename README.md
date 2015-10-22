@@ -43,8 +43,8 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 
 ![地図](https://cloud.githubusercontent.com/assets/1619084/10647140/b80a5332-7871-11e5-82bd-de3bdb191983.png)
 
-高低差が最も激しいルート
-
+現状で確定ではないが、成田便の最安航空チケットで福岡に到着が11:30予定
+開始時間が13:00を予定しているので、ナイトランで辛いやつ。
 
 
 ##### 宿泊先
@@ -52,11 +52,15 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 [宇和島運輸フェリー](http://www.uwajimaunyu.co.jp/ourship/shisetsu/service.html#A_KYUKEI) で船舶休憩
 
 
-#### 【Day 2】静岡(駿河) - 愛知(小牧市) 201km
+#### 【Day 2】愛媛 - 愛媛(今治) 106km
 
-調べた結果によると、名古屋市街地が結構凹むらしい。。。。。
 
-特にアップダウンの激しい場所はないらしい。
+
+[しまなみ海道](http://www.oideya.gr.jp/shimanami_cycling/) はサイクリングで有名らしく、どうしてもしまなみ海道を日中に走りたくたいので2日目は短めで設定。
+
+瀬戸内海海岸ルートでほぼ坂なし。
+四国なんでのんびりといく。
+
 
 ##### 宿泊先
 
