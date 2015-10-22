@@ -81,15 +81,15 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 [おさふねサービスエリア](http://www.oplaza-h.co.jp/osafune-sa/acsess.html)
 
 
-#### 【Day 4】兵庫(神戸)中央区 - 岡山 - 広島(尾道) 214km
+#### 【Day 4】岡山 - 兵庫 - 京都 179km
 
-兵庫西部からはダラダラと山道。
+![day4](https://cloud.githubusercontent.com/assets/1619084/10655405/44ba2572-78af-11e5-87c4-e4199c383d50.png)
 
-下っては登ってを繰り返す予想。
+前日の宿泊先がアレなんでキツイが2日目の獲得距離を稼ぐために頑張るルート。
 
 ##### 宿泊先
 
-[HTSゲストハウス尾道](http://www.hero-travel-spt.jp/ho_home_jp.html)
+[サウナベルデクラブ](http://www.sauna-verdeclub.jp/)
 
 #### 【Day 5】広島(尾道) - 愛媛(八幡浜)からフェリー - 大分(別府) 264km (内フェリー60kmを含む)
 
