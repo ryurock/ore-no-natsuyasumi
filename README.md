@@ -91,25 +91,42 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 
 [サウナベルデクラブ](http://www.sauna-verdeclub.jp/)
 
-#### 【Day 5】広島(尾道) - 愛媛(八幡浜)からフェリー - 大分(別府) 264km (内フェリー60kmを含む)
+#### 【Day 5】京都 - 愛知 185km
 
-[しまなみ海道](http://www.oideya.gr.jp/shimanami_cycling/contents/honki_rider/page1.htm)はひたすら小さな島を越えて行き、
-[愛媛県道54号串内子線](https://ja.wikipedia.org/wiki/%E6%84%9B%E5%AA%9B%E7%9C%8C%E9%81%9354%E5%8F%B7%E4%B8%B2%E5%86%85%E5%AD%90%E7%B7%9A)からほぼ山間部のおそらく一番辛いルート。でもこれ抜けたら、あとは最終日だけ。
+![Day5](https://cloud.githubusercontent.com/assets/1619084/10655442/b4ea8b70-78af-11e5-9264-0a88b3dffc4c.png)
+
+名古屋あたりから健康ランドが多くめげた時に仮眠場所の選択がしやすくなる。
+なんていいことだ
 
 ##### 宿泊先
 
-[別府わくわく温泉 かっぱの湯](http://www.beppu-kappanoyu.com/)
+[オールナイト・サウナピア](http://www.sauna-pia.co.jp/map.html)
 
 
-#### 【Day 6】大分(別府) - 福岡 (福岡国際空港) 124km
+#### 【Day 6】 静岡横断 190km
 
-10号線をひたすら福岡に向かって北上。
+![day6](https://cloud.githubusercontent.com/assets/1619084/10655495/2e9c8540-78b0-11e5-9d2b-8d49553406b5.png)
 
-山間部も多いらしいが、それほど急なアップダウンはない模様
+車で何回も通ったことあるけども、おそらく一番だるいルート。
+静岡はあんであんなに横に長いんだろう・・・・・
 
-[小倉～中津～宇佐](http://charider.cside2.com/Nonbiri/kyushu/route10/route10.htm#anchorr100)
+##### 宿泊先
 
-それを超えて福岡空港へdone
+[スパリゾートオアシス御殿場](http://www.oasisgotemba.com/index.html)
+
+#### 【Day 7 Final】 静岡 - 神奈川 - 東京 105km
+
+![day7](https://cloud.githubusercontent.com/assets/1619084/10655566/bcd25812-78b0-11e5-91da-fc57ec512520.png)
+
+とどめは箱根超えでヘロヘロdone
+おみやを届けてFinish
+
+##### 宿泊先
+
+お・う・ち ♡
+
+
+
 
 ## Thanks Sponsored
 
