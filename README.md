@@ -35,7 +35,7 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 
 ### ゴール地点
 
-とある渋谷にある会社(渋谷)
+とある渋谷にある会社(東京)
 
 ## ルート
 
@@ -43,10 +43,13 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 
 ![地図](https://cloud.githubusercontent.com/assets/1619084/10647140/b80a5332-7871-11e5-82bd-de3bdb191983.png)
 
+高低差が最も激しいルート
+
+
 
 ##### 宿泊先
 
-[駿河健康ランド](http://www.kur-hotel.co.jp/suruga/map/index.html)
+[宇和島運輸フェリー](http://www.uwajimaunyu.co.jp/ourship/shisetsu/service.html#A_KYUKEI) で船舶休憩
 
 
 #### 【Day 2】静岡(駿河) - 愛知(小牧市) 201km
