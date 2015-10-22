@@ -64,18 +64,21 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 
 ##### 宿泊先
 
-[小牧天然温泉スパガーラ](http://www.spagala.com/)
+[シクロの家](http://www.cyclonoie.com/)
+
+サイクリングする人に優しそうなゲストハウス
 
 
-#### 【Day 3】愛知(小牧市) - 滋賀(琵琶湖) = 兵庫(神戸)中央区 195km
+#### 【Day 3】愛媛 - 広島 - 岡山 166km
 
-初めての場所なのでなんとも言えないのだが、関ヶ原から琵琶湖に抜けるラインだと思われる。
+![Day3](https://cloud.githubusercontent.com/assets/1619084/10654990/759da762-78ab-11e5-95fd-b07fc93db01f.png)
 
-琵琶湖は平坦な直線であまり面白みがないらしい。
+ここもほぼ高低差なしのルート
+
 
 ##### 宿泊先
 
-[神戸 サウナ&スパ](http://www.kobe-sauna.co.jp/top.html)
+[おさふねサービスエリア](http://www.oplaza-h.co.jp/osafune-sa/acsess.html)
 
 
 #### 【Day 4】兵庫(神戸)中央区 - 岡山 - 広島(尾道) 214km
