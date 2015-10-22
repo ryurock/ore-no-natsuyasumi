@@ -54,7 +54,7 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 
 #### 【Day 2】愛媛 - 愛媛(今治) 106km
 
-
+![Day2](https://cloud.githubusercontent.com/assets/1619084/10654935/fcb9ac4c-78aa-11e5-97f3-121152ef99e4.png)
 
 [しまなみ海道](http://www.oideya.gr.jp/shimanami_cycling/) はサイクリングで有名らしく、どうしてもしまなみ海道を日中に走りたくたいので2日目は短めで設定。
 
