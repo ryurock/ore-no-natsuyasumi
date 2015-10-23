@@ -134,7 +134,6 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 スポンサードの条件は
 
 * 「動画を配信すること(生放送)」
-* 「hogeを食す動画で配信する」 or 「hogeを買ってくる」
 
 というのがスポンサードの条件。
 
@@ -144,7 +143,11 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 
 これがないとそもそもこの企画はできなかった。。。。。
 
-@todo 名前記載していいならここにGithubユーザー名
+神なとある人が企画の話をしたらパッとだしてくれた。
+
+なんて神なんだ・・・・
+
+独身ってうらやしまい・・・・・
 
 ### 自転車につけるスマホホルダー
 
