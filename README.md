@@ -40,7 +40,7 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 
 ## Thanks Sponsored
 
-今回は特別スポンサードとしてとある(コーポレートカラーが)ブラック企業のサイクリング部の人々からスポンサードを受けている。
+今回は特別スポンサードとしてとある渋谷にある会社のサイクリング部の人々からスポンサードを受けている。
 ただしスポンサードの条件は
 
 * 「東京までの間動画を配信すること(生放送)」
@@ -120,7 +120,7 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 
 旅の途中の休憩ポイントでこのページのpullreqを見ます。
 その内容が現地で買えそうなら、マージして買ってきます。
-基本的に貧乏なんで、PullReqの内容に沿った金額をとあるブラック企業に戻ってきた時に頂きます。
+基本的に貧乏なんで、PullReqの内容に沿った金額をとある渋谷にある企業に戻ってきた時に頂きます。
 尚、生物は輸送の関係上送れませんのでPullReqはマージしません。
 郵送でも食いたい場合は、別途facebookのメッセンジャーください。
 
@@ -141,18 +141,29 @@ xxxxx円
 京都のhoge店にあるしば漬け
 ```
 
-### 千円寄付PullRequest
+### ギフトRequest
 
-千円恵んでくれる。奇特なかたもPullReqください。
-ブラック企業に戻ってきた時に「ハァハァ」言いながら恵んでもらいます。
+旅はとても体力を使います。
 
-以下千円寄付PullRequestのサンプル
+その場で提供していただける方は
 
-senenageru-{氏名}.md
+[giftee](https://giftee.co/)
 
-```
-なんか一言
-```
+で私のfacebook宛にURLくらさい。
+
+* [パステルなめらかプリンパフェ](https://giftee.co/gifts/detail/587)とか
+* [からあげくん](https://giftee.co/gifts/detail/549)とか
+* [スタバで意識高い系](https://giftee.co/gifts/detail/468)とか
+* [ローソンお買い物券 500円](https://giftee.co/gifts/detail/547)とか
+* [ローソンお買い物券 500円](https://giftee.co/gifts/detail/547)とか
+* [ローソンお買い物券 500円](https://giftee.co/gifts/detail/547)とか
+* [ローソンお買い物券 500円](https://giftee.co/gifts/detail/547)とか
+* [ローソンお買い物券 500円](https://giftee.co/gifts/detail/547)とか
+
+など旅の道中に恵んでくれると元気になって生放送とかが面白くなるかもしれません。
+
+(保証はしませんキリッ！！！！)
+
 
 ## ルート
 
