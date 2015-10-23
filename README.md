@@ -53,11 +53,13 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 
 これがないとそもそもこの企画はできなかった。。。。。
 
-神なとある人が企画の話をしたらパッとだしてくれた。
+とある人に企画の話をしたらパッとだしてくれた。
 
 なんて神なんだ・・・・
 
-独身ってうらやしまい・・・・・
+なんて神なんだ・・・・
+
+なんて神なんだ・・・・
 
 ### 自転車につけるスマホホルダー
 
@@ -67,6 +69,7 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 ![スマホホルダー](http://www.minoura.jp/products/accessory/utilityholder/ih-520/ih-520-mdm.jpg)
 
 これがないと生放送ができない・・・・・とある人に相談したら買うよ。との返事
+
 
 ### モバイルバッテリー
 
@@ -116,7 +119,9 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 
 軍資金として5万円(スポンサード)
 
-## おみやげPullReqest
+## プチ企画
+
+### おみやげPullReqest
 
 旅の途中の休憩ポイントでこのページのpullreqを見ます。
 その内容が現地で買えそうなら、マージして買ってきます。
