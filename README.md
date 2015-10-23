@@ -37,10 +37,10 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 
 ## Thanks Sponsored
 
-今回は特別スポンサードとしてとあるブラック企業のサイクリング部の人々からスポンサードを受けている。
-スポンサードの条件は
+今回は特別スポンサードとしてとある(コーポレートカラーが)ブラック企業のサイクリング部の人々からスポンサードを受けている。
+ただしスポンサードの条件は
 
-* 「動画を配信すること(生放送)」
+* 「東京までの間動画を配信すること(生放送)」
 
 というのがスポンサードの条件。
 
@@ -89,18 +89,23 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 俺の夏休みのルール
 
 
-### 生放送配信
+### 生放送配信をすること
 
 * [twitcasting](http://twitcasting.tv/)
 
 配信しないとスポンサーからの金5万円は没収
 
+### 最低名古屋まで走らないとスポンサード金5万円は没収
 
-### 今どこいるの && 生存確認
+きっとぼくは敗退したらまっすぐ消費者金融に行くんだとおもう
+
+## 今どこいるの && 生存確認
 
 [Runnastic](https://www.runtastic.com/)の[ライブトラッキング](https://www.runtastic.com/ja/users/ryusuke-kimura-1/sport-sessions/1048657779) で現在位置は確認できます。
 
-### Twitter
+
+
+## Twitter
 
 @todo ハッシュタグつける
 
