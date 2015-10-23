@@ -1,9 +1,12 @@
 # 俺の夏休み
 
+## プロローグ
+
 [俺の夏休み.io](http://ryurock.github.io/ore-no-natsuyasumi/)
 
 11月から1ヶ月間大人の夏休み。
-夏休みといったら、「自転車」。
+夏休みといったら、「自転車」
+。
 そう僕は[棒ラーメン](http://www.amazon.co.jp/%E6%A3%92%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3-%E3%83%9E%E3%83%AB%E3%82%BF%E3%82%A4-1%E8%A2%8B2%E9%A3%9F%E5%85%A51%E7%AE%B130%E8%A2%8B/dp/B002B4B0CK) を買いに九州 - 東京への地獄の[ブルベ](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%99) 試走をするのであった。
 
 ## 走行距離
@@ -113,7 +116,7 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
 
 軍資金として5万円(スポンサード)
 
-### おみやげPullReqest
+## おみやげPullReqest
 
 旅の途中の休憩ポイントでこのページのpullreqを見ます。
 その内容が現地で買えそうなら、マージして買ってきます。
