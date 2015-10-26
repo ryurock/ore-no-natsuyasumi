@@ -18,7 +18,9 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kq-E3N7kvB8U&usp=sharing
 
 ![全体図](https://cloud.githubusercontent.com/assets/1619084/10728488/9fd1c522-7c25-11e5-8d40-38677a25d547.png)
 
+## 実施予定日
 
+11/5 - 11/12
 
 ## 制限時間
 
@@ -114,7 +116,17 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kq-E3N7kvB8U&usp=sharing
 
 ## Twitter
 
-@todo ハッシュタグつける
+アカウントはこれ
+
+https://twitter.com/ryurock3
+
+ハッシュタグは下記
+
+https://twitter.com/hashtag/%E4%BF%BA%E3%81%AE%E5%A4%8F%E4%BC%91%E3%81%BF?src=hash
+
+## ツイキャス配信URL
+
+http://twitcasting.tv/ryurock3
 
 ### 予算
 
