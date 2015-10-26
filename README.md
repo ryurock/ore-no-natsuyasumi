@@ -7,15 +7,16 @@
 11月から1ヶ月間大人の夏休み。
 夏休みといったら、「自転車」
 。
+
 そう僕は[棒ラーメン](http://www.amazon.co.jp/%E6%A3%92%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3-%E3%83%9E%E3%83%AB%E3%82%BF%E3%82%A4-1%E8%A2%8B2%E9%A3%9F%E5%85%A51%E7%AE%B130%E8%A2%8B/dp/B002B4B0CK) を買いに九州 - 東京への地獄の[ブルベ](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%99) 試走をするのであった。
 
 ## 走行距離
 
-約 1200km
+約 1100km
 
-https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kRSL3f7aZUbs&usp=sharing
+https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kq-E3N7kvB8U&usp=sharing
 
-![全体図](https://cloud.githubusercontent.com/assets/1619084/10647267/49b18792-7872-11e5-8e5e-22f0df411a01.png)
+![全体図](https://cloud.githubusercontent.com/assets/1619084/10728488/9fd1c522-7c25-11e5-8d40-38677a25d547.png)
 
 
 
