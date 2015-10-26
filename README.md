@@ -191,16 +191,16 @@ xxxxx円
 
 ![地図](https://cloud.githubusercontent.com/assets/1619084/10728669/278be7c6-7c27-11e5-9e7c-b513ed0533da.png)
 
+https://www.strava.com/routes/3565311
+
 走り始めが2時頃からのスタート
 時間的にナイトランをしなくてはいけないのがつらい。
-もう少し頑張れそうなら別府まで頑張るプラン
 
 
 #### 【Day 2】大分(中津) - 愛媛(今治) 161km
 
 ![Day2](https://cloud.githubusercontent.com/assets/1619084/10729039/e9e3280a-7c29-11e5-947e-cc012476f626.png)
 
-１日目で頑張ったら、別府から
 
 [しまなみ海道](http://www.oideya.gr.jp/shimanami_cycling/) はサイクリングで有名らしく、どうしてもしまなみ海道を日中に走りたいので、起点ポイントの今治でストップ。
 
