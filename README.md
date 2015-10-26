@@ -71,7 +71,9 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kq-E3N7kvB8U&usp=sharing
 
 ![スマホホルダー](http://www.minoura.jp/products/accessory/utilityholder/ih-520/ih-520-mdm.jpg)
 
-これがないと生放送ができない・・・・・とある人に相談したら買うよ。との返事
+これがないと生放送ができない・・・・・とある人に相談したらくれた。
+
+なんていい人だ
 
 
 ### モバイルバッテリー
@@ -116,7 +118,7 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kq-E3N7kvB8U&usp=sharing
 
 ## Twitter
 
-アカウントはこれ
+アカウント
 
 https://twitter.com/ryurock3
 
