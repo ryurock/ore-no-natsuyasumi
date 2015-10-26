@@ -185,24 +185,20 @@ xxxxx円
 
 ## ルート
 
-#### 【Day 1】福岡 - 大分(別府) 137km
+#### 【Day 1】福岡 - 大分(中津) 82 km
 
-![地図](https://cloud.githubusercontent.com/assets/1619084/10647140/b80a5332-7871-11e5-82bd-de3bdb191983.png)
+![地図](https://cloud.githubusercontent.com/assets/1619084/10728669/278be7c6-7c27-11e5-9e7c-b513ed0533da.png)
 
-現状で確定ではないが、成田便の最安航空チケットで福岡に到着が11:30予定
-開始時間が13:00を予定しているので、ナイトランで辛いやつ。
-
-
-##### 宿泊先
-
-[宇和島運輸フェリー](http://www.uwajimaunyu.co.jp/ourship/shisetsu/service.html#A_KYUKEI) で船舶休憩
+走り始めが2時頃からのスタート
+時間的にナイトランをしなくてはいけないのがつらい。
+もう少し頑張れそうなら別府まで頑張るプラン
 
 
-#### 【Day 2】愛媛 - 愛媛(今治) 106km
+#### 【Day 2】大分(中津) - 愛媛(今治) 161km
 
 ![Day2](https://cloud.githubusercontent.com/assets/1619084/10654935/fcb9ac4c-78aa-11e5-97f3-121152ef99e4.png)
 
-[しまなみ海道](http://www.oideya.gr.jp/shimanami_cycling/) はサイクリングで有名らしく、どうしてもしまなみ海道を日中に走りたくたいので2日目は短めで設定。
+[しまなみ海道](http://www.oideya.gr.jp/shimanami_cycling/) はサイクリングで有名らしく、どうしてもしまなみ海道を日中に走りたいので、起点ポイントの今治でストップ
 
 瀬戸内海海岸ルートでほぼ坂なし。
 四国なんでのんびりといく。
