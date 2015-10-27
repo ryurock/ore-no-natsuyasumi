@@ -220,6 +220,8 @@ https://www.strava.com/routes/3568923
 
 ![Day3](https://cloud.githubusercontent.com/assets/1619084/10654990/759da762-78ab-11e5-95fd-b07fc93db01f.png)
 
+https://www.strava.com/routes/3568939
+
 ここもほぼ高低差なしのルート
 
 
