@@ -201,9 +201,9 @@ https://www.strava.com/routes/3565311
 
 ![Day2](https://cloud.githubusercontent.com/assets/1619084/10729039/e9e3280a-7c29-11e5-947e-cc012476f626.png)
 
+https://www.strava.com/routes/3568923
 
 [しまなみ海道](http://www.oideya.gr.jp/shimanami_cycling/) はサイクリングで有名らしく、どうしてもしまなみ海道を日中に走りたいので、起点ポイントの今治でストップ。
-
 
 瀬戸内海海岸ルートでほぼ坂なし。
 四国なんでのんびりといく。
