@@ -247,6 +247,8 @@ https://www.strava.com/routes/3568942
 
 ![Day5](https://cloud.githubusercontent.com/assets/1619084/10655442/b4ea8b70-78af-11e5-9264-0a88b3dffc4c.png)
 
+https://www.strava.com/routes/3568953
+
 名古屋あたりから健康ランドが多くめげた時に仮眠場所の選択がしやすくなる。
 なんていいことだ
 
