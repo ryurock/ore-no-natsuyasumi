@@ -234,6 +234,9 @@ https://www.strava.com/routes/3568939
 
 ![day4](https://cloud.githubusercontent.com/assets/1619084/10655405/44ba2572-78af-11e5-87c4-e4199c383d50.png)
 
+
+https://www.strava.com/routes/3568942
+
 前日の宿泊先がアレなんでキツイが2日目の獲得距離を稼ぐために頑張るルート。
 
 ##### 宿泊先
