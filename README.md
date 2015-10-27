@@ -261,6 +261,8 @@ https://www.strava.com/routes/3568953
 
 ![day6](https://cloud.githubusercontent.com/assets/1619084/10655495/2e9c8540-78b0-11e5-9d2b-8d49553406b5.png)
 
+https://www.strava.com/routes/3568955
+
 車で何回も通ったことあるけども、おそらく一番だるいルート。
 静岡はあんであんなに横に長いんだろう・・・・・
 
@@ -271,6 +273,8 @@ https://www.strava.com/routes/3568953
 #### 【Day 7 Final】 静岡 - 神奈川 - 東京 105km
 
 ![day7](https://cloud.githubusercontent.com/assets/1619084/10655566/bcd25812-78b0-11e5-91da-fc57ec512520.png)
+
+https://www.strava.com/routes/3568961
 
 とどめは箱根超えでヘロヘロdone
 おみやを届けてFinish
