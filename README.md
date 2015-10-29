@@ -289,7 +289,7 @@ https://www.strava.com/routes/3568961
 
 ## 俺のスペック
 
-[ore-no-spec.md](https://github.com/ryurock/ore-no-natsuyasumi/blob/master/oreno-spec.md) を参照
+[ore-no-spec.md](https://github.com/ryurock/ore-no-natsuyasumi/blob/master/ore-no-spec.md) を参照
 
 ## 俺の装備
 
