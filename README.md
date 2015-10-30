@@ -141,6 +141,24 @@ if (is_crazy(user)) {
 
 ![モバイル Wifi](http://heyhojournal.com/wp-content/uploads/2014/08/nad11.gif)
 
+### 輪行バック
+
+![輪行バック](http://ecx.images-amazon.com/images/I/41Qw3mWn9QL.jpg)
+
+これを元に福岡まで飛行機で飛んでスタート。
+サイクリング部の部長あざます!!!
+
+
+### 自転車のライト
+
+![自転車ライト](http://images-jp.amazon.com/images/P/B000KELV9U.09._SCLZZZZZZZ_.jpg)
+
+生存に関わるかもしれない・・・と話していたら貸して頂いた一品。
+これでナイトランは怖くない！！！
+
+あざます！！！
+m.k氏
+
 
 
 ## Rules
