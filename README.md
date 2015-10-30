@@ -18,8 +18,6 @@
 
 ## プロローグ
 
-なぜこうなったのか?の経緯をgithubpageにまとめてみました。
-
 [俺の夏休み.io](http://ryurock.github.io/ore-no-natsuyasumi/)
 
 11月から1ヶ月間大人の夏休み。
@@ -81,6 +79,38 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kq-E3N7kvB8U&usp=sharing
 なんて神なんだ・・・・
 
 なんて神なんだ・・・・
+
+### 金3千円 *2
+
+```
+user = 'ryusukekimura'
+if (is_crazy(user)) {
+   print 'この人は本当にかわいそうな人や・・・・・'
+}
+```
+
+でスポンサード3千円 * 2をGET!!!!
+
+* h.m氏(代わりに本場福岡で明太子チューブを買ってくる予定)
+* m.y氏(代わりに京都で木刀を買ってくる予定) -> いや、無理じゃね？
+
+あざます！！！！
+
+### 金1万円
+
+```
+user = 'ryusukekimura'
+if (is_crazy(user)) {
+   print 'ああ、木村さんらしいや・・・・・・'
+}
+```
+
+でスポンサード1万円をGET!!!!
+
+* d.k氏
+
+あざます！！！！
+
 
 ### 自転車につけるスマホホルダー
 
