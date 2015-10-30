@@ -169,7 +169,7 @@ xxxxx円
 
 [giftee](https://giftee.co/)
 
-で私のfacebook宛にURLくらさい。
+で私の[facebook](https://www.facebook.com/ryusukekimura3)もしくは[Twitter](https://twitter.com/ryurock3)にURLくらさい。
 
 * [パステルなめらかプリンパフェ](https://giftee.co/gifts/detail/587)とか
 * [からあげくん](https://giftee.co/gifts/detail/549)とか
