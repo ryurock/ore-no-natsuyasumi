@@ -18,6 +18,8 @@
 
 ## プロローグ
 
+なぜこうなったのか?の経緯をgithubpageにまとめてみました。
+
 [俺の夏休み.io](http://ryurock.github.io/ore-no-natsuyasumi/)
 
 11月から1ヶ月間大人の夏休み。
