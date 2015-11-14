@@ -1,5 +1,21 @@
 # 俺の夏休み
 
+私事ではございますが、10月31日付けでVoyage Groupを退職いたします。本日が最終出社日でした。
+入社したのが2014年8月1日ですので、在籍期間は1年2ヶ月となります。
+在籍期間中は非常に多くの方にお世話になりましたこと厚く御礼申し上げます。
+
+## とここで普通の退職エントリーなら経緯とかやったこととかが続くかとおもいきや！！！！
+
+そんな退職エントリーは世の中にいっぱいあるので
+
+「そんなものは僕には合わん」
+
+と思いちょっとワルノリしてみました。
+
+最後の最後に真剣に惡フザケしてみます。
+最終出社日なので大目に見てもらえると幸いです。
+
+
 ## プロローグ
 
 [俺の夏休み.io](http://ryurock.github.io/ore-no-natsuyasumi/)
@@ -64,6 +80,38 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kq-E3N7kvB8U&usp=sharing
 
 なんて神なんだ・・・・
 
+### 金3千円 *2
+
+```
+user = 'ryusukekimura'
+if (is_crazy(user)) {
+   print 'この人は本当にかわいそうな人や・・・・・'
+}
+```
+
+でスポンサード3千円 * 2をGET!!!!
+
+* h.m氏(代わりに本場福岡で明太子チューブを買ってくる予定)
+* m.y氏(代わりに京都で木刀を買ってくる予定) -> いや、無理じゃね？
+
+あざます！！！！
+
+### 金1万円
+
+```
+user = 'ryusukekimura'
+if (is_crazy(user)) {
+   print 'ああ、木村さんらしいや・・・・・・'
+}
+```
+
+でスポンサード1万円をGET!!!!
+
+* d.k氏
+
+あざます！！！！
+
+
 ### 自転車につけるスマホホルダー
 
 [iH-520-STD / iH-520-OS (Minoura)](http://www.amazon.co.jp/MINOURA-%E3%83%9F%E3%83%8E%E3%82%A6%E3%83%A9-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC-iH-520-STD-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89/dp/B00YHSX97C/ref=sr_1_3?ie=UTF8&qid=1445225292&sr=8-3&keywords=%E3%83%9F%E3%83%8E%E3%82%A6%E3%83%A9%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC)
@@ -92,6 +140,24 @@ https://www.google.com/maps/d/edit?mid=z5_ANcNwb7Ws.kq-E3N7kvB8U&usp=sharing
 定額 WiMaxを契約している人がいるのでお願いして拝借。
 
 ![モバイル Wifi](http://heyhojournal.com/wp-content/uploads/2014/08/nad11.gif)
+
+### 輪行バック
+
+![輪行バック](http://ecx.images-amazon.com/images/I/41Qw3mWn9QL.jpg)
+
+これを元に福岡まで飛行機で飛んでスタート。
+サイクリング部の部長あざます!!!
+
+
+### 自転車のライト
+
+![自転車ライト](http://images-jp.amazon.com/images/P/B000KELV9U.09._SCLZZZZZZZ_.jpg)
+
+生死に関わるかもしれない・・・と話していたら貸して頂いた一品。
+これでナイトランは怖くない！！！
+
+あざます！！！
+m.k氏
 
 
 
