@@ -24,7 +24,12 @@
 夏休みといったら、「自転車」
 。
 
+
 そう僕は[棒ラーメン](http://www.amazon.co.jp/%E6%A3%92%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3-%E3%83%9E%E3%83%AB%E3%82%BF%E3%82%A4-1%E8%A2%8B2%E9%A3%9F%E5%85%A51%E7%AE%B130%E8%A2%8B/dp/B002B4B0CK) を買いに九州 - 東京への地獄の[ブルベ](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%99) 試走をするのであった。
+
+## 実施結果の備忘録
+
+[result.md](https://github.com/ryurock/ore-no-natsuyasumi/blob/master/Result.md)
 
 ## 走行距離
 
