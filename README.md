@@ -139,19 +139,6 @@ http://twitcasting.tv/ryurock3
 
 [omiyage-example.md](https://github.com/ryurock/ore-no-natsuyasumi/blob/master/omiyage-example.md)
 
-
-omiyage-{氏名}.md
-
-```
-## おみやげ予算
-
-xxxxx円
-
-## おみやげ内容
-
-京都のhoge店にあるしば漬け
-```
-
 ### ギフトRequest
 
 旅はとても体力を使います。
